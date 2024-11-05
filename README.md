@@ -1,6 +1,6 @@
 ## Leandro Melo - Full Stack Developer
 
-### About Me
+### About Me 🤓
 
 - Bachelor of Information Systems from Uniube - Universidade de Uberaba.
 - Over 4 years of experience specializing in JavaScript and TypeScript development.

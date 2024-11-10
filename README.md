@@ -23,7 +23,6 @@
     ![Angular](https://img.shields.io/badge/Angular-003C71?style=flat-square&logo=angular&logoColor=white)
     ![NuxtJS](https://img.shields.io/badge/NuxtJS-003C71?style=flat-square&logo=nuxtdotjs&logoColor=white)
     ![VueJS](https://img.shields.io/badge/VueJS-003C71?style=flat-square&logo=vuedotjs&logoColor=white)
-    ![jQuery](https://img.shields.io/badge/jQuery-003C71?style=flat-square&logo=jquery&logoColor=white)
 
   - DevOps </br>
     ![Git](https://img.shields.io/badge/Git-003C71?style=flat-square&logo=git&logoColor=white)

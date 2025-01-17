@@ -4,7 +4,6 @@
 
 - Bachelor of Information Systems
 - Over 5 years of experience specializing in JavaScript and TypeScript development.
-- Currently working on large-scale microservices architecture within a team of 40+ professionals, focused on delivering high-performance solutions.
 - Actively studying technical concepts such as AWS, Kubernetes, database performance, and data structures to deepen my expertise and enhance the quality and scalability of my work.
 
 ### Main Stack

@@ -5,7 +5,7 @@
 - Bachelor of Information Systems
 - Over 5 years of experience specializing in JavaScript and TypeScript development.
 - Currently working with microservices in NestJS.
-- Actively studying technical concepts such as AWS, Kubernetes, database performance, and data structures to deepen my expertise and enhance the quality and scalability of my work.
+- Actively studying technical concepts such as AWS, database performance, and data structures to deepen my expertise and enhance the quality and scalability of my work.
 
 ### Main Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-003C71?style=flat-square&logo=javascript&logoColor=white)
